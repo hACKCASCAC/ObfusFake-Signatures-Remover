@@ -115,6 +115,12 @@ Currently, the unpacker can neutralize a massive list of fake signatures injecte
 
 ---
 
+Before
+![Preview](before.PNG)
+
+After
+![Preview](after.PNG)
+
 ## ⚖️ Disclaimer
 
 This tool is designed for reverse engineers, malware analysts, and security researchers. It is intended for educational purposes and for analyzing binaries you are authorized to inspect.
